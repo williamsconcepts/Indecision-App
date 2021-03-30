@@ -1,7 +1,8 @@
 # Indecision-App
-```npm install```
- 
-  ```shell
+Run ```npm install```
+
+ ```shell
     cd Indecision-App/
-    npm run serve
-    ```
+    npm run serve```
+ 
+
